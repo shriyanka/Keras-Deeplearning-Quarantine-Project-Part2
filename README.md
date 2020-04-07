@@ -1,4 +1,4 @@
-# Keras-Deeplearning-Quarntine-Project2
+# Keras-Deeplearning-Quarantine-Project-Part2
 
 I worked on this project as extension to my previous project <a href="https://github.com/shriyanka/Keras-Deeplearning-Quarantine-Project-Part1"><b>Keras-Deeplearning-Quarantine-Project-Part1</b></a>. 
 Again, wrote all the code from scratch and trained multi class deeplearning model end to end on 10 class image dataset. 
